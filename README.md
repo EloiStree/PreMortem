@@ -10,7 +10,7 @@ This repository is an simple self-discipline experiment:
 - Consider every tutorial as if you won't be there to explain it later.
 - Consider every publication like the last update.
 
-**Consider every projects like you won't be there to keep them alive. becaue you won't.**
+**Consider every projects like you won't be there to keep them alive... because you won't.**
 
 _"At the opposite of a post-mortem where you wait the project conclusion to report it,
 I want to learn to make report all along the way, like it could be stop at anytime... 
