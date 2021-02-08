@@ -9,7 +9,7 @@ This repository is an simple self-discipline experiments:
 - Consider every researh as the last day you can make report on it.
 - Consider every tutorial as if you won't be there to explain it later.
 
-_++"At the opposite of a post-mortem where you wait the project conclusion to report it,
+_"At the opposite of a post-mortem where you wait the project conclusion to report it,
 I want to learn to make report all along the way, like it could be stop at anytime... 
 Because 90% of the time it does"_
 
