@@ -16,3 +16,11 @@ This repository is an simple self-discipline experiment:
 _"At the opposite of a post-mortem where you wait the project conclusion to report it,
 I want to learn to make report all along the way, like it could be stop at anytime... 
 Because 90% of the time it does."_
+
+
+## Links
+
+I store my codes at three place on the web:
+- GitLab: https://eloistree.page.link/gitlab
+- GitHub: https://eloistree.page.link/github
+- Online Drive: https://eloistree.page.link/drive
